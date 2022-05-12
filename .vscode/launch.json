@@ -12,7 +12,8 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\Text_Align_Justify\\main.js"
+            "program": "${workspaceFolder}\\Sudoku Solution Validator\\app.js"
+            
         }
     ]
 }
